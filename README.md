@@ -1,6 +1,6 @@
 # House Price Prediction using Linear Regression
 ### Overview
-This project focuses on predicting house prices using a linear regression model. The model is built in several steps, including feature engineering, data splitting, model training, and evaluation. The dataset used is from a housing market, and the goal is to predict the SalePrice based on various features.
+This project focuses on predicting house prices using a linear regression model. The model is built in several steps, including feature engineering, data splitting, model training, and evaluation. The dataset used is from a housing market, and the goal is to predict the SalePrice based on various features. I chose to Implement this project to get practical experience in using regression models.
 
 ### Features
 The model uses the following features:
